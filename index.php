@@ -101,7 +101,7 @@
         </div>
         </div>
         <div class="md:w-1/2">
-        <img src="img/hero-africa-finance.jpg" alt="Empowering Africa through finance" class="rounded-3xl shadow-lg max-w-full object-cover" />
+        <img src="img/Moneylit5.jpg" alt="Empowering Africa through finance" class="rounded-3xl shadow-lg max-w-full object-cover" />
         </div>
     </section>
 
@@ -132,6 +132,72 @@
         <a href="#programs" class="inline-block bg-amber-400 hover:bg-amber-500 text-emerald-900 font-bold px-8 py-3 rounded-xl shadow-md transition">Join a Program &rarr;</a>
         </div>
     </section>
+
+    <!-- 3. Events & Initiatives - Creative Card Styling -->
+        <section id="events" class="py-24 md:py-36 bg-gray-50 rounded-3xl p-8">
+            <h2 class="text-5xl font-extrabold text-center mb-16 color-primary">Our Impact in Action</h2>
+
+            <div class="grid gap-12 lg:grid-cols-3">
+                
+                <!-- International Women’s Day Financial Literacy Event -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-4 border-pink-500 custom-shadow">
+                    <div class="flex items-center space-x-3 mb-4">
+                        <span class="text-4xl">🌸</span>
+                        <h3 class="text-2xl font-bold text-pink-600">IWD Financial Literacy Event</h3>
+                    </div>
+                    <p class="text-lg font-semibold text-gray-700 mb-6">Theme: Empowered Women, Empowered Finances</p>
+                    <div class="space-y-4 text-gray-600 text-base">
+                        <p>In celebration of International Women’s Day, we brought together women professionals and entrepreneurs for honest conversations about wealth creation and financial independence.</p>
+                        <h4 class="text-lg font-extrabold color-primary pt-2">Key Highlights:</h4>
+                        <ul class="list-none space-y-2 text-sm ml-0">
+                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Panel discussions on investing</li>
+                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Networking and mentorship</li>
+                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>50+ participants empowered</li>
+                        </ul>
+                        <a href="#gallery" class="mt-4 block w-full text-center px-4 py-3 bg-pink-500 text-white font-semibold rounded-xl hover:bg-pink-600 transition duration-300">
+                            See Photo Highlights
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Digital Professional Fair (2025) -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-4 border-blue-500 custom-shadow">
+                    <div class="flex items-center space-x-3 mb-4">
+                        <span class="text-4xl">💡</span>
+                        <h3 class="text-2xl font-bold text-blue-600">Digital Professional Fair (2025)</h3>
+                    </div>
+                    <p class="text-lg font-semibold text-gray-700 mb-6">Focus: Finances Beyond Income for Digital Pros</p>
+                    <div class="space-y-4 text-gray-600 text-base">
+                        <p>I shared practical strategies to help digital professionals take control of their finances and build sustainable wealth streams.</p>
+                        <h4 class="text-lg font-extrabold color-primary pt-2">We Explored:</h4>
+                        <ul class="list-none space-y-2 text-sm ml-0">
+                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Managing business cash flow</li>
+                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Sustainable pricing models</li>
+                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Separating business and personal finances</li>
+                        </ul>
+                        <a href="#contact" class="mt-4 block w-full text-center px-4 py-3 bg-blue-500 text-white font-semibold rounded-xl hover:bg-blue-600 transition duration-300">
+                            Request a Workshop
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Financial Literacy Conversations -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-4 border-secondary custom-shadow">
+                    <div class="flex items-center space-x-3 mb-4">
+                        <span class="text-4xl">💬</span>
+                        <h3 class="text-2xl font-bold text-amber-600">Community Conversations</h3>
+                    </div>
+                    <p class="text-lg font-semibold text-gray-700 mb-6">Informal Sessions, Real Impact</p>
+                    <div class="space-y-4 text-gray-600 text-base">
+                        <p>We regularly host informal or community sessions both online and offline, emphasizing my role as a thought leader driving critical conversations around wealth, investing, and economic empowerment across Africa.</p>
+                        <p class="pt-2">Join us to get involved in the discussion and start making measurable progress on your financial goals.</p>
+                        <a href="#contact" class="mt-6 block w-full text-center px-4 py-3 bg-secondary color-primary font-bold rounded-xl hover:bg-amber-400 transition duration-300">
+                            Connect on Social Media &rarr;
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
     <!-- Section 3: Our Impact -->
