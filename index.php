@@ -186,9 +186,9 @@
         We’re not just teaching finance — we’re transforming lives.
         </p>
         <ul class="list-disc pl-6 space-y-3 text-gray-800 max-w-xl font-medium">
-        <li>2,000+ people reached through online and in-person events.</li>
-        <li>International Women’s Day 2025 event hosted with 5+ partners.</li>
-        <li>Targeting 10,000+ empowered Africans by 2026.</li>
+        <li>10,000+ people reached through online and in-person events.</li>
+        <li>International Women’s Day 2025 event hosted with Afara Leadership center.</li>
+        <li>Targeting 100,000+ empowered Africans by 2026.</li>
         </ul>
         <div class="mt-8 flex flex-wrap gap-6">
         <img src="img/impact/photo1.jpg" alt="Impact photo 1" class="rounded-xl shadow-lg w-60 object-cover" />
