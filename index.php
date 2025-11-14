@@ -44,6 +44,35 @@
 </head>
 
     <body class="bg-gray-50 font-sans text-gray-900">
+        
+    <!-- Navigation Bar -->
+    <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-lg">
+        <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-20">
+            <a href="#home" class="text-3xl font-black color-primary tracking-tight">
+                ON. Finance
+            </a>
+            <div class="hidden md:flex space-x-8 text-base font-semibold">
+                <a href="#about" class="hover:text-amber-500 transition duration-300">About Omoefe</a>
+                <a href="#events" class="hover:text-amber-500 transition duration-300">Impact</a>
+                <a href="#vision" class="hover:text-amber-500 transition duration-300">Vision</a>
+                <a href="#gallery" class="hover:text-amber-500 transition duration-300">Highlights</a>
+                <a href="#contact" class="px-5 py-2 rounded-full bg-primary text-white font-bold hover:bg-emerald-900 transition duration-300 custom-shadow">Collaborate</a>
+            </div>
+            <!-- Mobile Menu Button (Hamburger) -->
+            <button class="md:hidden p-2 text-gray-700 rounded-lg hover:bg-gray-100 focus:outline-none" onclick="document.getElementById('mobile-menu').classList.toggle('hidden')">
+                <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+            </button>
+        </nav>
+        <!-- Mobile Menu Dropdown -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white shadow-xl py-4 absolute w-full">
+            <a href="#about" class="block px-6 py-2 text-base text-gray-700 hover:bg-emerald-50 border-b border-gray-100">About Omoefe</a>
+            <a href="#events" class="block px-6 py-2 text-base text-gray-700 hover:bg-emerald-50 border-b border-gray-100">Events & Impact</a>
+            <a href="#vision" class="block px-6 py-2 text-base text-gray-700 hover:bg-emerald-50 border-b border-gray-100">Vision</a>
+            <a href="#gallery" class="block px-6 py-2 text-base text-gray-700 hover:bg-emerald-50 border-b border-gray-100">Highlights</a>
+            <a href="#contact" class="block px-6 py-3 text-base text-white bg-primary mx-4 my-3 rounded-xl text-center font-bold">Collaborate Now</a>
+        </div>
+    </header>
+
 
     <!-- Banner Section (Homepage Integration) -->
     <section class="bg-gradient-to-tr from-emerald-800 via-emerald-700 to-emerald-900 px-6 md:px-12 py-20 text-center text-white rounded-b-3xl shadow-lg">
@@ -148,8 +177,8 @@
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-6xl mx-auto">
         <!-- Example advisory member -->
         <div class="text-center p-6 shadow-lg rounded-xl">
-            <img src="img/advisory/member1.jpg" alt="Finance Expert" class="mx-auto rounded-full w-32 h-32 object-cover mb-4 shadow-md" />
-            <h4 class="text-lg font-bold text-primary mb-1">Jane Doe</h4>
+            <img src="money3.jpg" alt="Finance Expert" class="mx-auto rounded-full w-32 h-32 object-cover mb-4 shadow-md" />
+            <h4 class="text-lg font-bold text-primary mb-1">Naomi Omoefe</h4>
             <p class="text-gray-700 text-sm">Finance Expert & Development Professional</p>
         </div>
         <!-- Add more members similarly -->
