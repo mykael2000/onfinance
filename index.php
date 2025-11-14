@@ -79,7 +79,7 @@
         <h1 class="text-4xl md:text-6xl font-extrabold mb-4 font-serif">Introducing ON Finance — Our Impact Movement</h1>
         <p class="md:max-w-3xl mx-auto text-lg md:text-xl font-medium leading-relaxed mb-8">
         Money Lit Africa is evolving. Through ON Finance, we’re building an Africa where financial knowledge creates real change.<br>
-        Our goal? To empower 10,000+ Africans with the tools, access, and community to achieve lasting financial freedom.
+        Our goal? To empower 100,000+ Africans with the tools, access, and community to achieve lasting financial freedom.
         </p>
         <div class="space-x-6">
         <a href="#learn" class="inline-block bg-amber-400 hover:bg-amber-500 text-emerald-900 font-bold px-8 py-3 rounded-xl shadow-md transition">Learn More About ON Finance</a>
@@ -156,27 +156,6 @@
                         </ul>
                         <a href="#gallery" class="mt-4 block w-full text-center px-4 py-3 bg-pink-500 text-white font-semibold rounded-xl hover:bg-pink-600 transition duration-300">
                             See Photo Highlights
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Digital Professional Fair (2025) -->
-                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-4 border-blue-500 custom-shadow">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <span class="text-4xl">💡</span>
-                        <h3 class="text-2xl font-bold text-blue-600">Digital Professional Fair (2025)</h3>
-                    </div>
-                    <p class="text-lg font-semibold text-gray-700 mb-6">Focus: Finances Beyond Income for Digital Pros</p>
-                    <div class="space-y-4 text-gray-600 text-base">
-                        <p>I shared practical strategies to help digital professionals take control of their finances and build sustainable wealth streams.</p>
-                        <h4 class="text-lg font-extrabold color-primary pt-2">We Explored:</h4>
-                        <ul class="list-none space-y-2 text-sm ml-0">
-                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Managing business cash flow</li>
-                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Sustainable pricing models</li>
-                            <li class="flex items-center"><svg class="w-4 h-4 mr-2 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>Separating business and personal finances</li>
-                        </ul>
-                        <a href="#contact" class="mt-4 block w-full text-center px-4 py-3 bg-blue-500 text-white font-semibold rounded-xl hover:bg-blue-600 transition duration-300">
-                            Request a Workshop
                         </a>
                     </div>
                 </div>
