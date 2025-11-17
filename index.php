@@ -53,8 +53,7 @@
             </a>
             <div class="hidden md:flex space-x-8 text-base font-semibold">
                 <a href="https://moneylitafrica.com" 
-                    class="bg-emerald-100 text-emerald-900 px-4 py-2 rounded-lg 
-                            transition-colors duration-300 hover:bg-amber-400 hover:text-emerald-900 font-semibold shadow-sm">
+                    class="hover:text-amber-500 transition duration-300">
                     MoneyLit
                 </a>
                 <a href="#about" class="hover:text-amber-500 transition duration-300">About Omoefe</a>
