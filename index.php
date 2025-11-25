@@ -221,15 +221,14 @@
 
 
     <!-- Section 5: Advisory Board -->
-    <section class="bg-white py-20 px-6 md:px-12 max-w-7xl mx-auto rounded-3xl shadow-md">
-        <div class="grid gap-12 lg:grid-cols-1">
-            <h3 class="text-4xl font-extrabold color-primary mb-8 font-serif border-b-4 border-amber-400 inline-block pb-2">Guided by Visionaries</h3>
-            <div class="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-6xl mx-auto">
-                <div class="text-center p-6 shadow-lg rounded-xl">
-                    <img src="img/money3.jpg" alt="Finance Expert" class="mx-auto rounded-full w-32 h-32 object-cover mb-4 shadow-md" />
-                    <h4 class="text-lg font-bold text-primary mb-1">Omoefe Orobator</h4>
-                    <p class="text-gray-700 text-sm">Finance Expert & Development Professional</p>
-                </div>
+    <section class="py-20 px-6 md:px-12 max-w-7xl mx-auto text-center bg-white rounded-3xl shadow-lg text-emerald-400">
+        <h3 class="text-4xl font-extrabold mb-6 font-serif border-b-4 border-amber-400 inline-block pb-2">Guided by Visionaries</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-6xl mx-auto">
+            <!-- Example advisory member -->
+            <div class="text-center p-6 shadow-lg rounded-xl">
+                <img src="img/money3.jpg" alt="Finance Expert" class="mx-auto rounded-full w-32 h-32 object-cover mb-4 shadow-md" />
+                <h4 class="text-lg font-bold text-primary mb-1">Omoefe Orobator</h4>
+                <p class="text-gray-700 text-sm">Finance Expert & Development Professional</p>
             </div>
         </div>
     </section>
