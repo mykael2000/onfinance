@@ -226,8 +226,8 @@
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-6xl mx-auto">
         <!-- Example advisory member -->
         <div class="text-center p-6 shadow-lg rounded-xl">
-            <img src="money3.jpg" alt="Finance Expert" class="mx-auto rounded-full w-32 h-32 object-cover mb-4 shadow-md" />
-            <h4 class="text-lg font-bold text-primary mb-1">Naomi Omoefe</h4>
+            <img src="img/money3.jpg" alt="Finance Expert" class="mx-auto rounded-full w-32 h-32 object-cover mb-4 shadow-md" />
+            <h4 class="text-lg font-bold text-primary mb-1">Omoefe Orobator</h4>
             <p class="text-gray-700 text-sm">Finance Expert & Development Professional</p>
         </div>
         <!-- Add more members similarly -->
