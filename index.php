@@ -168,9 +168,7 @@
             Through training, partnerships, and digital programs, we equip Africans with practical skills to make
             informed money decisions and take control of their financial futures.
         </p>
-    </section>
 
-    <section id="impact-advisory" class="py-20 px-6 md:px-12 max-w-7xl mx-auto bg-white rounded-3xl shadow-lg">
         <h2 class="text-4xl font-extrabold color-primary mb-4 font-serif border-b-4 border-amber-400 inline-block pb-2">
             Impact Advisory Board</h2>
         <p class="text-lg text-gray-700 leading-relaxed mb-6">
