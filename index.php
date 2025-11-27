@@ -97,7 +97,7 @@
         <div class="md:w-1/2 mb-12 md:mb-0">
         <h2 class="text-5xl font-extrabold color-primary mb-4 font-serif">Empowering Africa Through Financial Education and Access</h2>
         <p class="text-lg text-gray-700 mb-8 leading-relaxed max-w-lg">
-            ON Finance is the impact arm of Money Lit Africa — a movement turning financial literacy into measurable empowerment for women, youth, and underserved communities across the continent.
+            ON Finance is a movement turning financial literacy into measurable empowerment for women, youth, and underserved communities across the continent.
         </p>
         <div class="space-x-6">
             <a href="#join" class="inline-block bg-amber-400 hover:bg-amber-500 text-emerald-900 font-bold px-8 py-3 rounded-xl shadow-md transition">Join the Movement</a>
@@ -115,7 +115,7 @@
         <h3 class="text-4xl font-extrabold color-primary mb-6 font-serif border-b-4 border-amber-400 inline-block pb-2">Our Purpose Is Simple — Empowerment Through Financial Literacy</h3>
         <p class="text-lg text-gray-700 max-w-4xl leading-relaxed">
         ON Finance exists to close Africa’s financial knowledge gap.<br>
-        We believe that financial education is not just about money — it’s about dignity, opportunity, and freedom.<br>
+        We believe that financial education is not just about money, it’s about dignity, opportunity, and freedom.<br>
         Through training, partnerships, and digital programs, we equip Africans with practical skills to make informed money decisions and take control of their financial futures.
         </p>
     </section>
@@ -241,7 +241,7 @@
         Be part of Africa’s financial transformation. You can:
         </p>
         <ul class="list-disc list-inside max-w-md mx-auto text-lg font-medium mb-10">
-        <li>Volunteer as a Finance Ambassador.</li>
+        <li>Become an ON Fellow</li>
         <li>Partner with us on initiatives.</li>
         <li>Support our programs through donations or mentorship.</li>
         </ul>
@@ -253,7 +253,7 @@
 
     <!-- Footer Add-On -->
     <footer class="bg-amber-400 text-emerald-900 py-10 mt-16 text-center font-medium rounded-t-3xl px-6">
-        ON Finance is the impact arm of Money Lit Africa, dedicated to empowering Africans through financial education, access, and community-driven programs.
+        ON Finance is dedicated to empowering Africans through financial education, access, and community-driven programs.
     </footer>
     </body>
 </html>
