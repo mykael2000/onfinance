@@ -216,7 +216,7 @@
             <h4 class="text-2xl font-extrabold color-primary mb-6">Board Members</h4>
             <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
                 <div class="text-center p-4 bg-white rounded-xl shadow">
-                    <img src="img/about/money3.jpg" alt="Board member 1"
+                    <img src="img/money3.jpg" alt="Board member 1"
                         class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
                     <div class="text-lg font-semibold">Omoefe Orobator</div>
                     <div class="text-sm text-gray-600">Finance Expert & Development Professional</div>
