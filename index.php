@@ -221,24 +221,42 @@
                     <div class="text-lg font-semibold">Omoefe Orobator</div>
                     <div class="text-sm text-gray-600">Finance Expert & Development Professional</div>
                 </div>
-                <!-- <div class="text-center p-4 bg-white rounded-xl shadow">
-                <img src="img/board/member2.jpg" alt="Board member 2"
-                    class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
-                <div class="text-lg font-semibold">Mr. Kwame Mensah</div>
-                <div class="text-sm text-gray-600">Fintech Strategist</div>
-            </div>
-            <div class="text-center p-4 bg-white rounded-xl shadow">
-                <img src="img/board/member3.jpg" alt="Board member 3"
-                    class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
-                <div class="text-lg font-semibold">Ms. Funke Bello</div>
-                <div class="text-sm text-gray-600">Community Development</div>
-            </div>
-            <div class="text-center p-4 bg-white rounded-xl shadow">
-                <img src="img/board/member4.jpg" alt="Board member 4"
-                    class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
-                <div class="text-lg font-semibold">Prof. Samuel Okoye</div>
-                <div class="text-sm text-gray-600">Research & Evaluation</div>
-            </div> -->
+                <div class="text-center p-4 bg-white rounded-xl shadow">
+                    <img src="img/advisory-board/AbisolaAdenijiImpactInvestor.jpg                                                           " alt="Board member 2"
+                        class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
+                    <div class="text-lg font-semibold">Abisola Adeniji</div>
+                    <div class="text-sm text-gray-600">Impact Investor</div>
+                </div>
+                <div class="text-center p-4 bg-white rounded-xl shadow">
+                    <img src="img/advisory-board/BiyiMomohProjectManager.jpg" alt="Board member 3"
+                        class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
+                    <div class="text-lg font-semibold">Biyi Momoh</div>
+                    <div class="text-sm text-gray-600">Project Manager</div>
+                </div>
+                <div class="text-center p-4 bg-white rounded-xl shadow">
+                    <img src="img/advisory-board/EyitemiAdegboyeEnergyEconomist.jpg" alt="Board member 4"
+                        class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
+                    <div class="text-lg font-semibold">Eyitemi Adegboye</div>
+                    <div class="text-sm text-gray-600">Energy Economist</div>
+                </div>
+                <div class="text-center p-4 bg-white rounded-xl shadow">
+                    <img src="img/advisory-board/HenryAliemekeSeniorAuditor.jpg" alt="Board member 4"
+                        class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
+                    <div class="text-lg font-semibold">Henry Aliemeke</div>
+                    <div class="text-sm text-gray-600">Senior Auditor</div>
+                </div>
+                <div class="text-center p-4 bg-white rounded-xl shadow">
+                    <img src="img/advisory-board/IsaacObomheseManagementConsultant.jpg" alt="Board member 4"
+                        class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
+                    <div class="text-lg font-semibold">Isaac Obomhese</div>
+                    <div class="text-sm text-gray-600">Management Consultant</div>
+                </div>
+                <div class="text-center p-4 bg-white rounded-xl shadow">
+                    <img src="img/advisory-board/MartinsAkodoInvestmentAnalyst.jpg" alt="Board member 4"
+                        class="mx-auto rounded-full w-28 h-28 object-cover mb-3" loading="lazy">
+                    <div class="text-lg font-semibold">Martins Akodo</div>
+                    <div class="text-sm text-gray-600">Investment Analyst</div>
+                </div>
             </div>
         </div>
     </section>
